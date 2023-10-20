@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(142, 228, 142);
+    text-align: center;
+}
+
+.tele{
+    width: 50%;
+    height: 50%;
+    margin: 5px;
+    padding: 5px;
+    border: 5px solid black;
+    border-radius: 500px;
+}
+
+h1{
+    font-size: 100px;
+}
+
+.faculty{
+    font-size: 49px;
+}
+.hoho{
+    display: inline-block;
+}
